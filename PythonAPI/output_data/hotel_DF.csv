@@ -1,0 +1,29 @@
+City,Cloudiness,Country,Date,Humidity,Latitude,Longitude,Max temp,Wind speed,Hotel Name,Hotel Address,Hotel Lat,Hotel Lon
+saint-pierre,0,RE,1603380285,73,-21.34,55.48,24,8.7,LODGE PALMAE,59 Chemin Jules Ferry,-21.2963006,55.499885
+cap malheureux,0,MU,1603380577,71,-19.98,57.61,23.33,1.79,Paradise Cove Boutique Hotel,Royal Road Anse La Raie,-19.9878899,57.63265249999999
+port elizabeth,0,ZA,1603380383,78,-33.92,25.57,22,6.2,Island Way Villa,"2 Hartley Rd, Millard Grange, Port Elizabeth",-33.94592,25.593
+castro,0,BR,1603380586,50,-24.79,-50.01,23.84,4.3,Urano Business Hotel,"R. José Marques, 26 - Vila Frei Mathias, Castro",-24.8033628,-50.01184989999999
+east london,0,ZA,1603380320,73,-33.02,27.91,23,7.7,Premier Hotels & Resorts,"2nd Floor Elicc Building, Marine Park Complex 22 Esplanade, Beachfront, East London",-33.0186916,27.9186969
+cape town,0,ZA,1603380590,72,-33.93,18.42,21.11,9.3,One&Only Cape Town,"One&Only Cape Town, Dock Rd, Victoria & Alfred Waterfront, Cape Town",-33.9086313,18.4162905
+port hedland,0,AU,1603380593,83,-20.32,118.57,23,4.6,The Esplanade Hotel,"2 Anderson St, Port Hedland",-20.3139254,118.5760814
+port alfred,0,ZA,1603380597,71,-33.59,26.89,23.02,8.67,Royal St Andrews Hotel,"19 St Andrews Rd, Port Alfred",-33.6032154,26.8868014
+hermanus,0,ZA,1603380603,65,-34.42,19.23,22.78,3.13,Harbour House Hotel,"22 Harbour Rd, Hermanus",-34.4211674,19.2431805
+faya,0,SA,1603380617,13,18.39,42.45,24,4.6,NaN,NaN,NaN,NaN
+zaltan,0,LY,1603380637,49,32.95,11.87,25.08,6.7,NaN,NaN,NaN,NaN
+mansa,0,IN,1603380639,20,29.98,75.38,22.83,2.09,Mehak Resorts HOTEL,"Near Nehru Memorial Government College Sirsa, Barnala Highway, Mansa",30.0214044,75.3972409
+saint-philippe,0,RE,1603380646,73,-21.36,55.77,24,8.7,Les Embruns Du Baril,Réunion,-21.3692006,55.7279486
+hun,0,LY,1603380665,30,29.13,15.95,22.84,1.55,Alrwasi Hotel,houn-aljoufra,29.1171477,15.9158511
+bhag,0,PK,1603380674,14,29.04,67.82,23.95,0.52,Bukhari hotl,Bhag,29.0421302,67.82445109999999
+ajaccio,0,FR,1603380677,53,42.0,8.92,23,1.01,Chalet zen,"Plaine de Peri 8, Chemin de Petra Rossa, Peri",41.9950521,8.8632219
+jalu,0,LY,1603380683,35,29.03,21.55,22.09,4.38,Jalu Hotel,Jalu,29.03272369999999,21.5458054
+abu kamal,0,SY,1603380685,24,34.45,40.92,25.49,4.08,NaN,NaN,NaN,NaN
+san buenaventura,0,MX,1603380697,62,27.08,-101.53,25.3,0.48,Hotel Villa Jardín,"Carretera Federal 30, San Buenaventura Centro, San Buenaventura",27.0435501,-101.55493
+nouadhibou,0,MR,1603380709,61,20.93,-17.03,27,7.2,Free Zone Hotel Nouadhibou,Unnamed Road,20.9389501,-17.0345462
+talara,0,PE,1603380721,73,-4.58,-81.27,24,8.2,Casa Andina Standard Talara,"Av. Bolognesi 143-145, Talara",-4.575182,-81.27546099999999
+sur,0,OM,1603380738,61,22.57,59.53,25.73,5.2,Sur Plaza Hotel,Sur,22.5664354,59.4958585
+grand gaube,0,MU,1603380775,71,-20.01,57.66,23.33,1.79,LUX Grand Gaube Resort & Villas,"MU, Coastal Road, Grand Gaube",-20.002344,57.659766
+yasothon,0,TH,1603380788,78,15.75,104.13,24,1.5,BM Grand Hotel,"105/4 Rattana Khet Alley, Nai Mueang, Mueang Yasothon District",15.7970128,104.1446165
+wattegama,0,LK,1603380792,94,6.8,81.48,27,3.6,NaN,NaN,NaN,NaN
+saint-joseph,0,RE,1603380792,73,-21.37,55.62,24,8.7,Bubble Dome Village,"18 chemin, Ligne des Quatre Cent Vingt",-21.3666,55.637328
+karhal,0,IN,1603380799,29,27.0,78.94,25.73,0.89,Aiza Resort Karhal,"hafeez nagar, Karhal",27.0040335,78.9371302
+zvishavane,0,ZW,1603380803,39,-20.33,30.07,25.61,4.06,Pote Hill Hotel,Zvishavane,-20.3085941,30.0458761
