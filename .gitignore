@@ -1,8 +1,8 @@
 # Byte-compiled / optimized / DLL files
-api_keys
 __pycache__/
 *.py[cod]
 *$py.class
+api_keys.py
 
 # C extensions
 *.so
