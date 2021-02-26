@@ -6,7 +6,8 @@ API for Cities and Weather project
 
 In this project, I was able to demonstrate how to extract information from certain websites and shape it in order to conduct an analysis of its composition.
 
-WeatherPy
+### WeatherPy
+
 First, I needed to download a random set of cities coordinates and identify their country and geographical location. With the help of Pandas DataFrames, I could generate random coordinates, look for the nearest city using Cities module and performing a custom API call with OpenWeather servers.
 
 
@@ -26,7 +27,8 @@ I found out it was easier to perform such task by identifying both hemispheres (
 
 ![Regression2](Resources/Images/Demo/Image4.png)
 
-VacationPy
+### VacationPy
+
 After that, a function localizing hotels in selected cities with specific weather conditions was made, creating markers placed on top of a Google Map.
 
 The location of the cities themselves was made with a heatmap.
